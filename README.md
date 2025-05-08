@@ -1,47 +1,91 @@
 
-**static web project** you built based on a **Figma design**, using **HTML, CSS, Bootstrap, and SVGs**, and explicitly noting that it's **desktop-only** and **not responsive**:
 
 ---
 
 ````markdown
-# 🎨 Static Web Page (PC-Only) – Figma to Code
+# 🧒💻 iWrite Web
 
-This project is a **static webpage** meticulously built using **HTML**, **CSS**, **Bootstrap**, and **SVG assets** exported from a **Figma design**. It aims to replicate the original design with high visual fidelity.
+**iWrite Web** is a visually engaging, static website designed for **children aged 10–17** who are interested in exploring the world of **web development**, **graphic design**, **game development**, and **early tech job opportunities**.
 
-> ⚠️ This project is **not responsive** and is intended **only for desktop (PC) screens**. It does not adapt to mobile or tablet viewports.
+The project was built to **mirror a Figma design** as closely as possible using **HTML**, **CSS**, **Bootstrap**, and **SVG graphics**. It provides an educational, user-friendly interface that captures young learners’ attention — all while being a static, PC-only web experience.
 
-## 💡 Project Highlights
+> ⚠️ **Note:** This project is **not responsive**. It is built **exclusively for desktop viewports** and will not adapt to mobile or tablet screens.
 
-- ✨ Fully styled based on a Figma mockup
-- 📐 Implemented layout and design with **Bootstrap 5**
-- 🖼️ Embedded **SVG graphics** directly exported from Figma
-- 🧱 Structured with clean and semantic HTML
-- 🎯 Focused on **pixel-perfect desktop design replication**
+---
 
-## 📁 Tech Stack
+## 🚀 Project Overview
 
-- **HTML5** – Semantic page structure  
-- **CSS3** – Custom styles for enhanced design accuracy  
-- **Bootstrap 5** – Grid system and component styling  
-- **SVG** – Scalable graphics extracted from Figma
+- 🎓 **Purpose:** To inspire and support children (ages 10–17) in learning creative and technical digital skills.
+- 💻 **Focus Areas:**  
+  - Web Development  
+  - Graphic Design  
+  - Game Development  
+  - Tech Job Preparation
+- 🔒 Includes a **login form** with client-side validation for a simple user authentication interface.
+- 🎨 Designed entirely based on a **Figma prototype**, with SVG assets directly integrated.
 
-## 📌 Important Notes
+---
 
-- ❌ **No responsiveness** — this project was designed exclusively for **PC viewports** (min-width: ~1200px).
-- ⚙️ **No dynamic behavior** or interactivity beyond static markup and styles.
-- 🎨 Figma design served as the **sole reference** for layout, colors, and typography.
+## 🛠️ Technologies Used
 
-## 🚀 Getting Started
+- **HTML5** – for page structure  
+- **CSS3** – for styling and layout customizations  
+- **Bootstrap 5** – for grid layout and components  
+- **SVG** – scalable, high-quality assets from Figma  
+- **Client-side validation** – for the login form  
+
+---
+
+## 📌 Key Features
+
+- 🎯 **Static layout** faithful to the Figma design  
+- 🧱 Structured using Bootstrap’s grid system  
+- 🖼️ Rich visuals and icons using SVGs  
+- 🔐 Login form with built-in HTML validation  
+- 🖥️ **Optimized for desktop use only**
+
+---
+
+## 🚫 Limitations
+
+- ❌ **Not responsive** — this website is built only for **desktop/laptop users**
+- ⚙️ **No backend integration** — purely a front-end static prototype
+- 📱 **Not optimized** for mobile or tablet viewports
+
+---
+
+## 📁 Getting Started
+
+To run the project locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/NwogboPrince/Iwrite-web/.git
-   cd project-name
+   git clone https://github.com/yourusername/iwrite-web.git
+   cd iwrite-web
 ````
 
-2. Open `index.html` in your browser to view the static page.
+2. Open `index.html` in your web browser.
+
+---
+
+STILL WORKING ON THE BACKEND !!!
+
+## 🧒 Target Audience
+
+* Children aged **10 to 17**
+* Curious minds eager to dive into **tech and creativity**
+* Beginners interested in **learning by doing**
+
+---
 
 ## 📄 License
 
 This project is open-source and available under the [MIT License](LICENSE).
+
+---
+
+## 🙌 Acknowledgments
+
+* UI/UX design inspiration from **Figma**
+* Built with ❤️ using **Bootstrap**, **HTML**, and **CSS**
 
