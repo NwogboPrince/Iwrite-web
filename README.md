@@ -60,7 +60,7 @@ To run the project locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/iwrite-web.git
+   git clone https://github.com/NwogboPrince/iwrite-web.git
    cd iwrite-web
 ````
 
